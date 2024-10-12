@@ -1,0 +1,57 @@
+/.navbar-mod {
+  background: rgba(0, 0, 0, 1);
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  background: black;
+  padding: 10px;
+  bottom: 0;
+  width: 100%;
+  color: grey;
+}
+
+body {
+  background-image: url("https://cdn.glitch.global/df4388bd-2689-4901-a44d-29982287bbad/backgr_varo.png?v=1718061265487");
+}
+
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+ul {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+p {
+  color: white;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+label {
+  color: white;
+}
+
+form {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+#datosGuardados {
+  background-image: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+}
